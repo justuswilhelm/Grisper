@@ -1,0 +1,6 @@
+*.dSYM
+*.out
+*.c
+__pycache__
+test1
+test1.py
